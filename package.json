@@ -1,0 +1,19 @@
+{
+  "name": "chirper-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jquery": "^3.4.1",
+    "morgan": "^1.10.0",
+    "node": "^13.11.0",
+    "nodemon": "^2.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "nodemon server/server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
